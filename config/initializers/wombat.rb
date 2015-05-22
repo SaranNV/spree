@@ -1,7 +1,7 @@
 Spree::Wombat::Config.configure do |config|
 
-  config.connection_token = "3af06ab77997c522e03cde63029cadedfe8ec5d1ef3b2e2e"
-  config.connection_id = "554d899f736d61281e4f0000"
+  config.connection_token = "7797c567ba07b728eefb399431698cc692b8f302b1774cb2"
+  config.connection_id = "555db158736d6107c9e10100"
 
   # config.push_objects = ["Spree::Order", "Spree::Product"]
   # config.payload_builder = {
